@@ -85,7 +85,7 @@ git push origin nome-da-sua-branch
 - [Radix ui](https://www.radix-ui.com/)
 - [Sonner](https://sonner.emilkowal.ski/)
 - [Lucide icons](https://lucide.dev/)
-- [Figma layout](https://www.figma.com/file/6wi4IWmXZZasc9EBRMEbqr/ToDo-List-•-Desafio-React-(Copy)?node-id=56%3A96&mode=dev)
+- [Figma layout]([https://www.figma.com/file/6wi4IWmXZZasc9EBRMEbqr/ToDo-List-•-Desafio-React-(Copy)?node-id=56%3A96&mode=dev](https://www.figma.com/file/5L1y2GngB5oIV7iMf20baN/NLW-expert-%E2%80%A2-Notes-(Community)?type=design&node-id=2-287&mode=design&t=jxrYmZBgFslKdcBa-0))
 - [Vite](https://vitejs.dev/)
 - [Rocketseat](https://www.rocketseat.com.br/)
 
